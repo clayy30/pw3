@@ -56,4 +56,14 @@
         </mxCell>
 
         <!-- Notes Section -->
-        <mxCell id="notes" value="NOTES:&#xa;1. All work to comply with N
+        <mxCell id="notes" value="NOTES:&#xa;1. All work to comply with NEC 2020 Article 705, 706, and 710&#xa;2. Georgia Power interconnection standards ESR 2022&#xa;3. All outdoor equipment NEMA 3R or better&#xa;4. System includes automatic transfer switching per NEC 702&#xa;5. All conductors copper, 90°C rated, sized per NEC 310&#xa;6. Equipment grounding per NEC 250&#xa;7. Surge protection meets NEC 230.67&#xa;8. Rapid shutdown compliant per NEC 690.12&#xa;9. Gateway requires stable internet connection&#xa;10. Load calculations per NEC 220&#xa;11. All breakers must be listed for backfeed&#xa;12. System requires Georgia Power PTO before operation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="250" height="200" as="geometry"/>
+        </mxCell>
+
+        <!-- Connection Lines -->
+        <!-- Add appropriate connection lines between all components -->
+        
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
